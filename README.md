@@ -8,11 +8,11 @@ Input video to verification framework "noise2noise".
 
 ## Instructions
 
+驗證模型去除高資雜訊的能力，使用 [1] https://github.com/yu4u/noise2noise 此篇程式碼訓練模型，使用該篇作者的數據集進行訓練。
+
 程式碼可以輸入圖片以及影片，預設為影片去除高斯雜訊，若要改成輸入圖片可以從程式碼裡註解以及修改註解。
 
 額外加入圖片放到imagedir資料夾、影片放到目錄下修改路徑執行。
-
-使用 [1] https://github.com/yu4u/noise2noise 此篇程式碼訓練模型，使用該篇作者的數據集進行訓練。
 
 以下為該篇架構訓練指令:
 
