@@ -4,6 +4,7 @@ Input video to verification framework "noise2noise".
 
 ## Dependencies
 - python == 3.6
+- tensorflow == 2.4.0
 - Keras >= 2.1.2, TensorFlow, NumPy, OpenCV
 
 ## Instructions
